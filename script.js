@@ -1,4 +1,4 @@
-console.log("ciao mondo")
+//Bici
 
 
 const bici = [
